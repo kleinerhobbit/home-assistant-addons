@@ -1,6 +1,6 @@
 ---
 name: Bitwarden secrets for Home Assistant
-version: 1.4.6
+version: 2.0
 slug: bw-cli-secrets
 description: Manage Home Assistant secrets easily from Bitwarden.
 arch:
