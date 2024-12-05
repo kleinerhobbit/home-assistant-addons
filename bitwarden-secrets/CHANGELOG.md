@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0
+
+* 📈 Updated Bitwarden CLI to 2024.11.1
+* 📈 Update BaseImage to 16.3.6
+
 ## 1.4.6
 
 * 🆕 Added newline between entries (#41 @SVNKoch)
